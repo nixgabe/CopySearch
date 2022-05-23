@@ -1,0 +1,21 @@
+﻿  copyfiles.cpp
+  foundfile.cpp
+  functions.cpp
+C:\Users\nixga\source\repos\Kopisökare\Kopisökare\functions.h(12,25): warning C4244: 'initializing': conversion from 'uintmax_t' to 'double', possible loss of data
+C:\Users\nixga\source\repos\Kopisökare\Kopisökare\functions.cpp(85): message : see reference to function template instantiation 'Os &operator <<<std::basic_ostream<char,std::char_traits<char>>>(Os &,HumanReadable)' being compiled
+          with
+          [
+              Os=std::basic_ostream<char,std::char_traits<char>>
+          ]
+  Kopisökare.cpp
+C:\Users\nixga\source\repos\Kopisökare\Kopisökare\functions.h(12,25): warning C4244: 'initializing': conversion from 'uintmax_t' to 'double', possible loss of data
+C:\Users\nixga\source\repos\Kopisökare\Kopisökare\Kopisökare.cpp(105): message : see reference to function template instantiation 'Os &operator <<<std::ostream>(Os &,HumanReadable)' being compiled
+          with
+          [
+              Os=std::ostream
+          ]
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 798 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Kopisökare.vcxproj -> C:\Users\nixga\source\repos\Kopisökare\x64\Release\Kopisökare.exe
